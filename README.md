@@ -1,3 +1,3 @@
 # Photo Filter
-Add filter to your .bmp photo
+Add filter to your .bmp photo \n
 -help for instructions
